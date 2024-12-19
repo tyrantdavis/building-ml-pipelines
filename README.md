@@ -1,6 +1,6 @@
-# [Building an ML Pipeline]()
+# [Building an ML Pipeline](https://nbviewer.org/github/tyrantdavis/building-ml-pipelines/blob/main/pipeline.ipynb)
 
-## [Demo]()
+## [Demo](https://nbviewer.org/github/tyrantdavis/building-ml-pipelines/blob/main/pipeline.ipynb)
 This project will utilize a dataset that features characteristics of bone marrow transplants specifically for pediatric patients, sourced from UCI’s Machine Learning Repository. The goal is to create a comprehensive pipeline that encompasses all necessary preprocessing and data-cleaning procedures, followed by the selection of the most effective classifier to forecast patient survival outcomes.
 
 ### Scenario
